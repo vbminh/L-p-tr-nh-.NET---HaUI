@@ -1,0 +1,14 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\obj\Debug\netcoreapp3.1\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Example\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache
