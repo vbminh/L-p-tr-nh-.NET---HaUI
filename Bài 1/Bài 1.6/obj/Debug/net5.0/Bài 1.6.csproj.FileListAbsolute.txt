@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\bin\Debug\net5.0\Bài 1.6.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\bin\Debug\net5.0\Bài 1.6.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\bin\Debug\net5.0\Bài 1.6.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\bin\Debug\net5.0\Bài 1.6.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\bin\Debug\net5.0\Bài 1.6.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\bin\Debug\net5.0\ref\Bài 1.6.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\bin\Debug\net5.0\Bài 1.6.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\obj\Debug\net5.0\Bài 1.6.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\obj\Debug\net5.0\Bài 1.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\obj\Debug\net5.0\Bài 1.6.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\obj\Debug\net5.0\Bài 1.6.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\obj\Debug\net5.0\Bài 1.6.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\obj\Debug\net5.0\Bài 1.6.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\obj\Debug\net5.0\ref\Bài 1.6.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\obj\Debug\net5.0\Bài 1.6.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 1\Bài 1.6\obj\Debug\net5.0\Bài 1.6.genruntimeconfig.cache
