@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\bin\Debug\net5.0\Mang.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\bin\Debug\net5.0\Mang.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\bin\Debug\net5.0\Mang.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\bin\Debug\net5.0\Mang.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\bin\Debug\net5.0\Mang.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\bin\Debug\net5.0\ref\Mang.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\bin\Debug\net5.0\Mang.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\obj\Debug\net5.0\Mang.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\obj\Debug\net5.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\obj\Debug\net5.0\Mang.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\obj\Debug\net5.0\Mang.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\obj\Debug\net5.0\Mang.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\obj\Debug\net5.0\Mang.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\obj\Debug\net5.0\ref\Mang.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\obj\Debug\net5.0\Mang.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Mang\obj\Debug\net5.0\Mang.genruntimeconfig.cache

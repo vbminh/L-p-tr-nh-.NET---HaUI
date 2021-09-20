@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\bin\Debug\net5.0\Giaithua.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\bin\Debug\net5.0\Giaithua.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\bin\Debug\net5.0\Giaithua.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\bin\Debug\net5.0\Giaithua.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\bin\Debug\net5.0\Giaithua.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\bin\Debug\net5.0\ref\Giaithua.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\bin\Debug\net5.0\Giaithua.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\obj\Debug\net5.0\Giaithua.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\obj\Debug\net5.0\Giaithua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\obj\Debug\net5.0\Giaithua.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\obj\Debug\net5.0\Giaithua.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\obj\Debug\net5.0\Giaithua.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\obj\Debug\net5.0\Giaithua.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\obj\Debug\net5.0\ref\Giaithua.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\obj\Debug\net5.0\Giaithua.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Giaithua\obj\Debug\net5.0\Giaithua.genruntimeconfig.cache

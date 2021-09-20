@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mang", "Mang\Mang.csproj", "{7D89B182-8ECB-4835-9186-822BA3A64BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chuoi", "Chuoi\Chuoi.csproj", "{98C0D4D3-D512-49DF-B346-E34B71631273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D89B182-8ECB-4835-9186-822BA3A64BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D89B182-8ECB-4835-9186-822BA3A64BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D89B182-8ECB-4835-9186-822BA3A64BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D89B182-8ECB-4835-9186-822BA3A64BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C0D4D3-D512-49DF-B346-E34B71631273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C0D4D3-D512-49DF-B346-E34B71631273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C0D4D3-D512-49DF-B346-E34B71631273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C0D4D3-D512-49DF-B346-E34B71631273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59514AF7-740B-467E-A911-EEBFC4D92022}
+	EndGlobalSection
+EndGlobal

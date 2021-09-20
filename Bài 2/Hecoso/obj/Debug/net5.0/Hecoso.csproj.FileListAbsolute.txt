@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\bin\Debug\net5.0\Hecoso.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\bin\Debug\net5.0\Hecoso.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\bin\Debug\net5.0\Hecoso.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\bin\Debug\net5.0\Hecoso.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\bin\Debug\net5.0\Hecoso.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\bin\Debug\net5.0\ref\Hecoso.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\bin\Debug\net5.0\Hecoso.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\obj\Debug\net5.0\Hecoso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\obj\Debug\net5.0\Hecoso.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\obj\Debug\net5.0\Hecoso.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\obj\Debug\net5.0\Hecoso.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\obj\Debug\net5.0\Hecoso.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\obj\Debug\net5.0\ref\Hecoso.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\obj\Debug\net5.0\Hecoso.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\obj\Debug\net5.0\Hecoso.genruntimeconfig.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Hecoso\obj\Debug\net5.0\Hecoso.csproj.AssemblyReference.cache

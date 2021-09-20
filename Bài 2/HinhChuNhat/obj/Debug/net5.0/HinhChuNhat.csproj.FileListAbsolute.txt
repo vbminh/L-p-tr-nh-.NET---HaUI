@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\bin\Debug\net5.0\ref\HinhChuNhat.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\obj\Debug\net5.0\ref\HinhChuNhat.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\bin\Debug\net5.0\Fabonacci.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\bin\Debug\net5.0\Fabonacci.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\bin\Debug\net5.0\Fabonacci.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\bin\Debug\net5.0\Fabonacci.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\bin\Debug\net5.0\Fabonacci.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\bin\Debug\net5.0\ref\Fabonacci.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\bin\Debug\net5.0\Fabonacci.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\obj\Debug\net5.0\Fabonacci.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\obj\Debug\net5.0\Fabonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\obj\Debug\net5.0\Fabonacci.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\obj\Debug\net5.0\Fabonacci.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\obj\Debug\net5.0\Fabonacci.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\obj\Debug\net5.0\Fabonacci.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\obj\Debug\net5.0\ref\Fabonacci.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\obj\Debug\net5.0\Fabonacci.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 2\Fabonacci\obj\Debug\net5.0\Fabonacci.genruntimeconfig.cache
