@@ -1,0 +1,16 @@
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\bin\Debug\net5.0\DemoMethod.exe
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\bin\Debug\net5.0\DemoMethod.deps.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\bin\Debug\net5.0\DemoMethod.runtimeconfig.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\bin\Debug\net5.0\DemoMethod.runtimeconfig.dev.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\bin\Debug\net5.0\DemoMethod.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\bin\Debug\net5.0\ref\DemoMethod.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\bin\Debug\net5.0\DemoMethod.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\obj\Debug\net5.0\DemoMethod.csproj.AssemblyReference.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\obj\Debug\net5.0\DemoMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\obj\Debug\net5.0\DemoMethod.AssemblyInfoInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\obj\Debug\net5.0\DemoMethod.AssemblyInfo.cs
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\obj\Debug\net5.0\DemoMethod.csproj.CoreCompileInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\obj\Debug\net5.0\DemoMethod.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\obj\Debug\net5.0\ref\DemoMethod.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\obj\Debug\net5.0\DemoMethod.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethod\obj\Debug\net5.0\DemoMethod.genruntimeconfig.cache

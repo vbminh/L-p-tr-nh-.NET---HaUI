@@ -27,27 +27,31 @@ namespace Danhsach
                 list[i] = Convert.ToInt32(Console.ReadLine());
             }
 
-            Console.WriteLine("\nDanh sach sau khi nhap : ");
+            Console.Write("\nDanh sach sau khi nhap : ");
+            
             for (int i = 0; i < n; i++)
             {
                 Console.Write(list[i] + " ");
             }
 
-            Console.WriteLine("\nCac so chan la: ");
+            Console.Write("\n\nCac so chan la: ");
+
             for (int i = 0; i < n; i++)
             {
                 if(list[i] % 2 == 0)
                     Console.Write(list[i] + " ");
             }
 
-            Console.WriteLine("\nCac so le la: ");
+            Console.Write("\n\nCac so le la: ");
+
             for (int i = 0; i < n; i++)
             {
                 if (list[i] % 2 != 0)
                     Console.Write(list[i] + " ");
             }
 
-            Console.WriteLine("\nCac so nguyen to la: ");
+            Console.Write("\n\nCac so nguyen to la: ");
+
             for (int i = 0; i < n; i++)
             {
                 if (Prime(list[i]))

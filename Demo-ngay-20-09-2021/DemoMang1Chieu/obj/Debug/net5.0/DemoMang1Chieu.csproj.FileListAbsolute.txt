@@ -1,0 +1,16 @@
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\bin\Debug\net5.0\DemoMang1Chieu.exe
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\bin\Debug\net5.0\DemoMang1Chieu.deps.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\bin\Debug\net5.0\DemoMang1Chieu.runtimeconfig.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\bin\Debug\net5.0\DemoMang1Chieu.runtimeconfig.dev.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\bin\Debug\net5.0\DemoMang1Chieu.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\bin\Debug\net5.0\ref\DemoMang1Chieu.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\bin\Debug\net5.0\DemoMang1Chieu.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\obj\Debug\net5.0\DemoMang1Chieu.csproj.AssemblyReference.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\obj\Debug\net5.0\DemoMang1Chieu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\obj\Debug\net5.0\DemoMang1Chieu.AssemblyInfoInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\obj\Debug\net5.0\DemoMang1Chieu.AssemblyInfo.cs
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\obj\Debug\net5.0\DemoMang1Chieu.csproj.CoreCompileInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\obj\Debug\net5.0\DemoMang1Chieu.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\obj\Debug\net5.0\ref\DemoMang1Chieu.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\obj\Debug\net5.0\DemoMang1Chieu.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMang1Chieu\obj\Debug\net5.0\DemoMang1Chieu.genruntimeconfig.cache

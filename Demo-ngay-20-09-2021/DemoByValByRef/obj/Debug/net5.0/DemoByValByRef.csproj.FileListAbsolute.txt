@@ -1,0 +1,30 @@
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.exe
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.deps.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.runtimeconfig.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.runtimeconfig.dev.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\ref\DemoByValByRef.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.AssemblyInfoInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.AssemblyInfo.cs
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.csproj.CoreCompileInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\ref\DemoByValByRef.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.genruntimeconfig.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\ref\DemoByValByRef.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\bin\Debug\net5.0\DemoByValByRef.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\ref\DemoByValByRef.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoByValByRef\obj\Debug\net5.0\DemoByValByRef.genruntimeconfig.cache

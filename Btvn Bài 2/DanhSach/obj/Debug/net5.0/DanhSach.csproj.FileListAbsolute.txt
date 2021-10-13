@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\bin\Debug\net5.0\DanhSach.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\bin\Debug\net5.0\DanhSach.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\bin\Debug\net5.0\DanhSach.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\bin\Debug\net5.0\ref\DanhSach.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\bin\Debug\net5.0\DanhSach.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\obj\Debug\net5.0\DanhSach.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\obj\Debug\net5.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\obj\Debug\net5.0\DanhSach.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\obj\Debug\net5.0\DanhSach.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\obj\Debug\net5.0\ref\DanhSach.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\obj\Debug\net5.0\DanhSach.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\DanhSach\obj\Debug\net5.0\DanhSach.genruntimeconfig.cache

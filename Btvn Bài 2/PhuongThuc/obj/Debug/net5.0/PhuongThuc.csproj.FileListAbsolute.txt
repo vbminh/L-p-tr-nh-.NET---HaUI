@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\bin\Debug\net5.0\ref\PhuongThuc.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\obj\Debug\net5.0\ref\PhuongThuc.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.genruntimeconfig.cache

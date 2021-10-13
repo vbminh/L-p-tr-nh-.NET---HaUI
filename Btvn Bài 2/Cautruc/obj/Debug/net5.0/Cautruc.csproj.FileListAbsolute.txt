@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\bin\Debug\net5.0\Cautruc.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\bin\Debug\net5.0\Cautruc.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\bin\Debug\net5.0\Cautruc.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\bin\Debug\net5.0\Cautruc.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\bin\Debug\net5.0\Cautruc.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\bin\Debug\net5.0\ref\Cautruc.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\bin\Debug\net5.0\Cautruc.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\obj\Debug\net5.0\Cautruc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\obj\Debug\net5.0\Cautruc.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\obj\Debug\net5.0\Cautruc.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\obj\Debug\net5.0\Cautruc.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\obj\Debug\net5.0\Cautruc.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\obj\Debug\net5.0\ref\Cautruc.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\obj\Debug\net5.0\Cautruc.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\obj\Debug\net5.0\Cautruc.genruntimeconfig.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Btvn Bài 2\Cautruc\obj\Debug\net5.0\Cautruc.csproj.AssemblyReference.cache

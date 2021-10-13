@@ -1,0 +1,32 @@
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.exe
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.deps.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.runtimeconfig.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.runtimeconfig.dev.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\ref\DemoListT.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.csproj.AssemblyReference.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.AssemblyInfoInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.AssemblyInfo.cs
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.csproj.CoreCompileInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\ref\DemoListT.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.genruntimeconfig.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\ref\DemoListT.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\bin\Debug\net5.0\DemoListT.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\ref\DemoListT.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Demo-ngay-20-09-2021\DemoListT\obj\Debug\net5.0\DemoListT.genruntimeconfig.cache

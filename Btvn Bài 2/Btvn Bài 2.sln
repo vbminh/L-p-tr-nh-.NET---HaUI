@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mang", "Mang\Mang.csproj", "{7D89B182-8ECB-4835-9186-822BA3A64BA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mang", "Mang\Mang.csproj", "{7D89B182-8ECB-4835-9186-822BA3A64BA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chuoi", "Chuoi\Chuoi.csproj", "{98C0D4D3-D512-49DF-B346-E34B71631273}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chuoi", "Chuoi\Chuoi.csproj", "{98C0D4D3-D512-49DF-B346-E34B71631273}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DanhSach", "DanhSach\DanhSach.csproj", "{8E3276B9-55C1-46C8-97DC-FC1A5C7EBBFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cautruc", "Cautruc\Cautruc.csproj", "{FB62CBE7-B258-46F0-9C05-7840E59A7DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhuongThuc", "PhuongThuc\PhuongThuc.csproj", "{D8EDF508-7259-44E7-86CC-5FCB7BF8CE48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{98C0D4D3-D512-49DF-B346-E34B71631273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98C0D4D3-D512-49DF-B346-E34B71631273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98C0D4D3-D512-49DF-B346-E34B71631273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3276B9-55C1-46C8-97DC-FC1A5C7EBBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3276B9-55C1-46C8-97DC-FC1A5C7EBBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3276B9-55C1-46C8-97DC-FC1A5C7EBBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3276B9-55C1-46C8-97DC-FC1A5C7EBBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB62CBE7-B258-46F0-9C05-7840E59A7DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB62CBE7-B258-46F0-9C05-7840E59A7DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB62CBE7-B258-46F0-9C05-7840E59A7DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB62CBE7-B258-46F0-9C05-7840E59A7DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8EDF508-7259-44E7-86CC-5FCB7BF8CE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EDF508-7259-44E7-86CC-5FCB7BF8CE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EDF508-7259-44E7-86CC-5FCB7BF8CE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EDF508-7259-44E7-86CC-5FCB7BF8CE48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

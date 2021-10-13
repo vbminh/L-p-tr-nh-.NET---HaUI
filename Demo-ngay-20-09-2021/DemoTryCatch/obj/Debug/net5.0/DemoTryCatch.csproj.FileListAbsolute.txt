@@ -1,0 +1,16 @@
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.exe
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.deps.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.runtimeconfig.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.runtimeconfig.dev.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\bin\Debug\net5.0\ref\DemoTryCatch.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.AssemblyInfoInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.AssemblyInfo.cs
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.csproj.CoreCompileInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\obj\Debug\net5.0\ref\DemoTryCatch.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.genruntimeconfig.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.csproj.AssemblyReference.cache

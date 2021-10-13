@@ -1,0 +1,15 @@
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\bin\Debug\net5.0\DemoMethodByVal.exe
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\bin\Debug\net5.0\DemoMethodByVal.deps.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\bin\Debug\net5.0\DemoMethodByVal.runtimeconfig.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\bin\Debug\net5.0\DemoMethodByVal.runtimeconfig.dev.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\bin\Debug\net5.0\DemoMethodByVal.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\bin\Debug\net5.0\ref\DemoMethodByVal.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\bin\Debug\net5.0\DemoMethodByVal.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\obj\Debug\net5.0\DemoMethodByVal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\obj\Debug\net5.0\DemoMethodByVal.AssemblyInfoInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\obj\Debug\net5.0\DemoMethodByVal.AssemblyInfo.cs
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\obj\Debug\net5.0\DemoMethodByVal.csproj.CoreCompileInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\obj\Debug\net5.0\DemoMethodByVal.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\obj\Debug\net5.0\ref\DemoMethodByVal.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\obj\Debug\net5.0\DemoMethodByVal.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoMethodByVal\obj\Debug\net5.0\DemoMethodByVal.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\bin\Debug\net5.0\VuBinhMinh_2019604575_proj51.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\bin\Debug\net5.0\VuBinhMinh_2019604575_proj51.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\bin\Debug\net5.0\VuBinhMinh_2019604575_proj51.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\bin\Debug\net5.0\VuBinhMinh_2019604575_proj51.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\bin\Debug\net5.0\VuBinhMinh_2019604575_proj51.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\bin\Debug\net5.0\ref\VuBinhMinh_2019604575_proj51.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\bin\Debug\net5.0\VuBinhMinh_2019604575_proj51.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\obj\Debug\net5.0\VuBinhMinh_2019604575_proj51.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\obj\Debug\net5.0\VuBinhMinh_2019604575_proj51.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\obj\Debug\net5.0\VuBinhMinh_2019604575_proj51.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\obj\Debug\net5.0\VuBinhMinh_2019604575_proj51.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\obj\Debug\net5.0\VuBinhMinh_2019604575_proj51.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\obj\Debug\net5.0\VuBinhMinh_2019604575_proj51.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\obj\Debug\net5.0\ref\VuBinhMinh_2019604575_proj51.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\obj\Debug\net5.0\VuBinhMinh_2019604575_proj51.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\Bài 5\VuBinhMinh_2019604575_proj51\VuBinhMinh_2019604575_proj51\obj\Debug\net5.0\VuBinhMinh_2019604575_proj51.genruntimeconfig.cache

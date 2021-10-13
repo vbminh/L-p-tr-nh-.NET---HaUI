@@ -1,0 +1,16 @@
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\bin\Debug\net5.0\Student.exe
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\bin\Debug\net5.0\Student.deps.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\bin\Debug\net5.0\Student.runtimeconfig.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\bin\Debug\net5.0\Student.runtimeconfig.dev.json
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\bin\Debug\net5.0\Student.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\bin\Debug\net5.0\ref\Student.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\bin\Debug\net5.0\Student.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\obj\Debug\net5.0\Student.csproj.AssemblyReference.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\obj\Debug\net5.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\obj\Debug\net5.0\Student.AssemblyInfoInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\obj\Debug\net5.0\Student.AssemblyInfo.cs
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\obj\Debug\net5.0\Student.csproj.CoreCompileInputs.cache
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\obj\Debug\net5.0\Student.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\obj\Debug\net5.0\ref\Student.dll
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\obj\Debug\net5.0\Student.pdb
+D:\Practice\GitHub\Lập trình .NET - HaUI\BTTH-Bài-3\Student\obj\Debug\net5.0\Student.genruntimeconfig.cache

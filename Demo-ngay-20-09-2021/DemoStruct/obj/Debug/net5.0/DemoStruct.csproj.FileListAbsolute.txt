@@ -1,0 +1,15 @@
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\bin\Debug\net5.0\DemoStruct.exe
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\bin\Debug\net5.0\DemoStruct.deps.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\bin\Debug\net5.0\DemoStruct.runtimeconfig.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\bin\Debug\net5.0\DemoStruct.runtimeconfig.dev.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\bin\Debug\net5.0\DemoStruct.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\bin\Debug\net5.0\ref\DemoStruct.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\bin\Debug\net5.0\DemoStruct.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\obj\Debug\net5.0\DemoStruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\obj\Debug\net5.0\DemoStruct.AssemblyInfoInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\obj\Debug\net5.0\DemoStruct.AssemblyInfo.cs
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\obj\Debug\net5.0\DemoStruct.csproj.CoreCompileInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\obj\Debug\net5.0\DemoStruct.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\obj\Debug\net5.0\ref\DemoStruct.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\obj\Debug\net5.0\DemoStruct.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoStruct\obj\Debug\net5.0\DemoStruct.genruntimeconfig.cache

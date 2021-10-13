@@ -1,0 +1,16 @@
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\bin\Debug\net5.0\DemoGhiFile.exe
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\bin\Debug\net5.0\DemoGhiFile.deps.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\bin\Debug\net5.0\DemoGhiFile.runtimeconfig.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\bin\Debug\net5.0\DemoGhiFile.runtimeconfig.dev.json
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\bin\Debug\net5.0\DemoGhiFile.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\bin\Debug\net5.0\ref\DemoGhiFile.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\bin\Debug\net5.0\DemoGhiFile.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\obj\Debug\net5.0\DemoGhiFile.csproj.AssemblyReference.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\obj\Debug\net5.0\DemoGhiFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\obj\Debug\net5.0\DemoGhiFile.AssemblyInfoInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\obj\Debug\net5.0\DemoGhiFile.AssemblyInfo.cs
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\obj\Debug\net5.0\DemoGhiFile.csproj.CoreCompileInputs.cache
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\obj\Debug\net5.0\DemoGhiFile.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\obj\Debug\net5.0\ref\DemoGhiFile.dll
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\obj\Debug\net5.0\DemoGhiFile.pdb
+E:\Demo\LT Net-001\Demo-ngay-20-09-2021\DemoGhiFile\obj\Debug\net5.0\DemoGhiFile.genruntimeconfig.cache
