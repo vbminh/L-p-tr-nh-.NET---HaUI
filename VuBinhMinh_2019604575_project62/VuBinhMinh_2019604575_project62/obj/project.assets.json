@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Practice\\GitHub\\Lập trình .NET - HaUI\\Bài 5\\VuBinhMinh_2019604575_proj51\\VuBinhMinh_2019604575_proj51\\VuBinhMinh_2019604575_proj51.csproj",
-      "projectName": "VuBinhMinh_2019604575_proj51",
-      "projectPath": "E:\\Practice\\GitHub\\Lập trình .NET - HaUI\\Bài 5\\VuBinhMinh_2019604575_proj51\\VuBinhMinh_2019604575_proj51\\VuBinhMinh_2019604575_proj51.csproj",
+      "projectUniqueName": "E:\\Practice\\GitHub\\Lập trình .NET - HaUI\\VuBinhMinh_2019604575_project62\\VuBinhMinh_2019604575_project62\\VuBinhMinh_2019604575_project62.csproj",
+      "projectName": "VuBinhMinh_2019604575_project62",
+      "projectPath": "E:\\Practice\\GitHub\\Lập trình .NET - HaUI\\VuBinhMinh_2019604575_project62\\VuBinhMinh_2019604575_project62\\VuBinhMinh_2019604575_project62.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Practice\\GitHub\\Lập trình .NET - HaUI\\Bài 5\\VuBinhMinh_2019604575_proj51\\VuBinhMinh_2019604575_proj51\\obj\\",
+      "outputPath": "E:\\Practice\\GitHub\\Lập trình .NET - HaUI\\VuBinhMinh_2019604575_project62\\VuBinhMinh_2019604575_project62\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
