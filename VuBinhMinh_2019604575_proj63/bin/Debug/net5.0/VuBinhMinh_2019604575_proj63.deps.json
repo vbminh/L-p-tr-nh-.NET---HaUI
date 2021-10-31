@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VuBinhMinh_2019604575_proj63/1.0.0": {
+        "runtime": {
+          "VuBinhMinh_2019604575_proj63.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VuBinhMinh_2019604575_proj63/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

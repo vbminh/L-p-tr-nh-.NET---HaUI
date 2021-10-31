@@ -9,11 +9,11 @@ namespace VuBinhMinh_2019604575_project62
         {
             Console.WriteLine("\n=====Vehicles=====");
 
-            List<Car> car = new List<Car>();
-            List<Truck> truck = new List<Truck>();
+            List<Vehicles> li = new List<Vehicles>();
             int choose;
             Boolean flag = true;
 
+            Console.OutputEncoding.
             try
             {
                 do
@@ -45,7 +45,7 @@ namespace VuBinhMinh_2019604575_project62
                                 Console.WriteLine("\nNhap thong tin car: ");
                                 Car car1 = new Car();
                                 car1.input();
-                                car.Add(car1);
+                                li.Add(car1);
 
                                 Console.Write("\nNhap \"0\" de ket thuc nhap. Nhan enter de tiep tuc.");
                                 n = Console.ReadLine();
@@ -57,7 +57,7 @@ namespace VuBinhMinh_2019604575_project62
                                 Console.WriteLine("\nNhap thong tin truck: ");
                                 Truck truck1 = new Truck();
                                 truck1.input();
-                                truck.Add(truck1);
+                                li.Add(truck1);
 
                                 Console.Write("\nNhap \"0\" de ket thuc nhap. Nhan enter de tiep tuc.");
                                 m = Console.ReadLine();
@@ -71,16 +71,9 @@ namespace VuBinhMinh_2019604575_project62
                         case 2:
                             Console.WriteLine("\n=====Hien thi du lieu=====");
 
-                            Console.WriteLine("\nCar: ");
-                            Console.WriteLine($"{"Id",10} {"Maker",15} {"Model",15} {"Year",10} {"Price",10} {"Color",10}");
-                            foreach(Car item in car)
-                            {
-                                item.output();
-                            }
-
-                            Console.WriteLine("\nTruck: ");
-                            Console.WriteLine($"{"Id",10} {"Maker",15} {"Model",15} {"Year",10} {"Price",10} {"TruckLoad",10}");
-                            foreach (Truck item in truck)
+                            
+                           
+                            foreach(var item in li)
                             {
                                 item.output();
                             }
@@ -96,16 +89,10 @@ namespace VuBinhMinh_2019604575_project62
                             Console.Write("\nNhap id can tim kiem:  ");
                             string id = Console.ReadLine();
 
-                            for(int i = 0; i < car.Count; i++)
+                            foreach(var item in li)
                             {
-                                if (car[i].id == id)
-                                    car[i].input();
-                            }
-                            Console.WriteLine();
-                            for (int i = 0; i < truck.Count; i++)
-                            {
-                                if (truck[i].id == id)
-                                    truck[i].input();
+                                if (item.id.Equals(id))
+                                    item.output();
                             }
 
                             Console.WriteLine("\nNhan \"Enter\" den tiep tuc");
@@ -114,10 +101,27 @@ namespace VuBinhMinh_2019604575_project62
                             break;
 
                         case 4:
+                            Console.WriteLine("\n=====Tim kiem theo marker=====");
+
+                            Console.Write("\nNhap maker can tim kiem:  ");
+                            string marker = Console.ReadLine();
+                            List<Vehicles> list = new List<Vehicles>();
+
+                            foreach (var item in li)
+                            {
+                                if (item.maker.Equals(marker))
+                                    list.Add(item);
+                            }
+                            
+
+                            Console.WriteLine("\nNhan \"Enter\" den tiep tuc");
+                            Console.ReadLine();
                             flag = true;
                             break;
 
                         case 5:
+                            Console.WriteLine("\n=====Sap xep theo price=====");
+
                             flag = true;
                             break;
 

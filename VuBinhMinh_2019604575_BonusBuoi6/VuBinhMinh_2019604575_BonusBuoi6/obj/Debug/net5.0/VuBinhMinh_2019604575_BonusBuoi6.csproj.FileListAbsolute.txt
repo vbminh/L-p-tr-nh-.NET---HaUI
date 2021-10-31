@@ -1,0 +1,16 @@
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\bin\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.exe
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\bin\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.deps.json
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\bin\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.runtimeconfig.json
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\bin\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.runtimeconfig.dev.json
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\bin\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\bin\Debug\net5.0\ref\VuBinhMinh_2019604575_BonusBuoi6.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\bin\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.pdb
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\obj\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.csproj.AssemblyReference.cache
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\obj\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\obj\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.AssemblyInfoInputs.cache
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\obj\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.AssemblyInfo.cs
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\obj\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.csproj.CoreCompileInputs.cache
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\obj\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\obj\Debug\net5.0\ref\VuBinhMinh_2019604575_BonusBuoi6.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\obj\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.pdb
+E:\Practice\GitHub\Lập trình .NET - HaUI\VuBinhMinh_2019604575_BonusBuoi6\VuBinhMinh_2019604575_BonusBuoi6\obj\Debug\net5.0\VuBinhMinh_2019604575_BonusBuoi6.genruntimeconfig.cache
