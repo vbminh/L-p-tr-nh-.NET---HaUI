@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "de2_Minh_575/1.0.0": {
+        "runtime": {
+          "de2_Minh_575.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "de2_Minh_575/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
