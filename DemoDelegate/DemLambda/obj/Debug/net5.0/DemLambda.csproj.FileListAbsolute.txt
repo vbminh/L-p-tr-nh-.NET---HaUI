@@ -1,0 +1,16 @@
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\bin\Debug\net5.0\DemLambda.exe
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\bin\Debug\net5.0\DemLambda.deps.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\bin\Debug\net5.0\DemLambda.runtimeconfig.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\bin\Debug\net5.0\DemLambda.runtimeconfig.dev.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\bin\Debug\net5.0\DemLambda.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\bin\Debug\net5.0\ref\DemLambda.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\bin\Debug\net5.0\DemLambda.pdb
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\obj\Debug\net5.0\DemLambda.csproj.AssemblyReference.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\obj\Debug\net5.0\DemLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\obj\Debug\net5.0\DemLambda.AssemblyInfoInputs.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\obj\Debug\net5.0\DemLambda.AssemblyInfo.cs
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\obj\Debug\net5.0\DemLambda.csproj.CoreCompileInputs.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\obj\Debug\net5.0\DemLambda.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\obj\Debug\net5.0\ref\DemLambda.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\obj\Debug\net5.0\DemLambda.pdb
+C:\Users\NhungNT\source\repos\DemoDelegate\DemLambda\obj\Debug\net5.0\DemLambda.genruntimeconfig.cache

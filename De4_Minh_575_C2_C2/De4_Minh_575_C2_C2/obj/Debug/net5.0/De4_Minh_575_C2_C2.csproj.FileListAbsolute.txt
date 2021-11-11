@@ -1,0 +1,16 @@
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\bin\Debug\net5.0\De4_Minh_575_C2_C2.exe
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\bin\Debug\net5.0\De4_Minh_575_C2_C2.deps.json
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\bin\Debug\net5.0\De4_Minh_575_C2_C2.runtimeconfig.json
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\bin\Debug\net5.0\De4_Minh_575_C2_C2.runtimeconfig.dev.json
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\bin\Debug\net5.0\De4_Minh_575_C2_C2.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\bin\Debug\net5.0\ref\De4_Minh_575_C2_C2.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\bin\Debug\net5.0\De4_Minh_575_C2_C2.pdb
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\obj\Debug\net5.0\De4_Minh_575_C2_C2.csproj.AssemblyReference.cache
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\obj\Debug\net5.0\De4_Minh_575_C2_C2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\obj\Debug\net5.0\De4_Minh_575_C2_C2.AssemblyInfoInputs.cache
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\obj\Debug\net5.0\De4_Minh_575_C2_C2.AssemblyInfo.cs
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\obj\Debug\net5.0\De4_Minh_575_C2_C2.csproj.CoreCompileInputs.cache
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\obj\Debug\net5.0\De4_Minh_575_C2_C2.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\obj\Debug\net5.0\ref\De4_Minh_575_C2_C2.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\obj\Debug\net5.0\De4_Minh_575_C2_C2.pdb
+E:\Practice\GitHub\Lập trình .NET - HaUI\De4_Minh_575_C2_C2\De4_Minh_575_C2_C2\obj\Debug\net5.0\De4_Minh_575_C2_C2.genruntimeconfig.cache

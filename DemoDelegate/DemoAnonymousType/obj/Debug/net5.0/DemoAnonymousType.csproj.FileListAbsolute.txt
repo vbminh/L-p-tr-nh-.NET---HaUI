@@ -1,0 +1,16 @@
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\obj\Debug\net5.0\DemoAnonymousType.csproj.AssemblyReference.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\obj\Debug\net5.0\DemoAnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\obj\Debug\net5.0\DemoAnonymousType.AssemblyInfoInputs.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\obj\Debug\net5.0\DemoAnonymousType.AssemblyInfo.cs
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\obj\Debug\net5.0\DemoAnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\bin\Debug\net5.0\DemoAnonymousType.exe
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\bin\Debug\net5.0\DemoAnonymousType.deps.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\bin\Debug\net5.0\DemoAnonymousType.runtimeconfig.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\bin\Debug\net5.0\DemoAnonymousType.runtimeconfig.dev.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\bin\Debug\net5.0\DemoAnonymousType.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\bin\Debug\net5.0\ref\DemoAnonymousType.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\bin\Debug\net5.0\DemoAnonymousType.pdb
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\obj\Debug\net5.0\DemoAnonymousType.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\obj\Debug\net5.0\ref\DemoAnonymousType.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\obj\Debug\net5.0\DemoAnonymousType.pdb
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousType\obj\Debug\net5.0\DemoAnonymousType.genruntimeconfig.cache

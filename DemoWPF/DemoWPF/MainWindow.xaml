@@ -1,0 +1,23 @@
+﻿<Window x:Class="DemoWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Label" HorizontalAlignment="Left" Height="6" Margin="86,46,0,0" VerticalAlignment="Top" Width="6" FontFamily="Times New Roman" FontSize="25"/>
+        <Label Content="Họ đệm" Margin="70,80,616,310" FontSize="25" FontFamily="Times New Roman" />
+        <Label Content="Tên" Margin="70,130,616,257" FontFamily="Times New Roman" FontSize="25"/>
+        <Label Content="Giới tính" Margin="70,180,616,208" FontFamily="Times New Roman" FontSize="25"/>
+        <Label Content="Ngoại ngữ" Margin="70,230,616,156" FontFamily="Times New Roman" FontSize="25"/>
+        <Label Content="Quê quán" Margin="70,280,616,85" FontFamily="Times New Roman" FontSize="25"/>
+        <Label Content="Thông tin" HorizontalAlignment="Center" Height="42" Margin="0,10,0,0" VerticalAlignment="Top" Width="140" FontFamily="Times New Roman" FontSize="30" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Height="40" Margin="256,80,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="432" FontFamily="Times New Roman" FontSize="25"/>
+        <TextBlock HorizontalAlignment="Left" Height="40" Margin="256,132,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="432" FontFamily="Times New Roman" FontSize="25"/>
+        <RadioButton Content="Nam" HorizontalAlignment="Left" Height="39" Margin="256,189,0,0" VerticalAlignment="Top" Width="164" TextBlock.FontFamily="Times New Roman" TextBlock.FontSize="25"/>
+        <RadioButton Content="Nữ" HorizontalAlignment="Left" Height="39" Margin="425,189,0,0" VerticalAlignment="Top" Width="164" TextBlock.FontFamily="Times New Roman" TextBlock.FontSize="25" Checked="RadioButton_Checked"/>
+
+    </Grid>
+</Window>

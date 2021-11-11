@@ -1,0 +1,15 @@
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\bin\Debug\net5.0\DemoFunc.exe
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\bin\Debug\net5.0\DemoFunc.deps.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\bin\Debug\net5.0\DemoFunc.runtimeconfig.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\bin\Debug\net5.0\DemoFunc.runtimeconfig.dev.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\bin\Debug\net5.0\DemoFunc.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\bin\Debug\net5.0\ref\DemoFunc.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\bin\Debug\net5.0\DemoFunc.pdb
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\obj\Debug\net5.0\DemoFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\obj\Debug\net5.0\DemoFunc.AssemblyInfoInputs.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\obj\Debug\net5.0\DemoFunc.AssemblyInfo.cs
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\obj\Debug\net5.0\DemoFunc.csproj.CoreCompileInputs.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\obj\Debug\net5.0\DemoFunc.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\obj\Debug\net5.0\ref\DemoFunc.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\obj\Debug\net5.0\DemoFunc.pdb
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoFunc\obj\Debug\net5.0\DemoFunc.genruntimeconfig.cache

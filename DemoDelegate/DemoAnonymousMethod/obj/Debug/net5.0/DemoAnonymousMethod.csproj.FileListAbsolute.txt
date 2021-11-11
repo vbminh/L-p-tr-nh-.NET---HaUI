@@ -1,0 +1,16 @@
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\bin\Debug\net5.0\DemoAnonymousMethod.exe
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\bin\Debug\net5.0\DemoAnonymousMethod.deps.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\bin\Debug\net5.0\DemoAnonymousMethod.runtimeconfig.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\bin\Debug\net5.0\DemoAnonymousMethod.runtimeconfig.dev.json
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\bin\Debug\net5.0\DemoAnonymousMethod.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\bin\Debug\net5.0\ref\DemoAnonymousMethod.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\bin\Debug\net5.0\DemoAnonymousMethod.pdb
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\obj\Debug\net5.0\DemoAnonymousMethod.csproj.AssemblyReference.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\obj\Debug\net5.0\DemoAnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\obj\Debug\net5.0\DemoAnonymousMethod.AssemblyInfoInputs.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\obj\Debug\net5.0\DemoAnonymousMethod.AssemblyInfo.cs
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\obj\Debug\net5.0\DemoAnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\obj\Debug\net5.0\DemoAnonymousMethod.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\obj\Debug\net5.0\ref\DemoAnonymousMethod.dll
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\obj\Debug\net5.0\DemoAnonymousMethod.pdb
+C:\Users\NhungNT\source\repos\DemoDelegate\DemoAnonymousMethod\obj\Debug\net5.0\DemoAnonymousMethod.genruntimeconfig.cache
