@@ -1,0 +1,47 @@
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.exe
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.deps.json
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.runtimeconfig.json
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.runtimeconfig.dev.json
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.dll
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\ref\DemoStyle.dll
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.pdb
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.csproj.AssemblyReference.cache
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\App.g.cs
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle_MarkupCompile.cache
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle_MarkupCompile.lref
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\MainWindow.baml
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.g.resources
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.GeneratedMSBuildEditorConfig.editorconfig
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.AssemblyInfoInputs.cache
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.AssemblyInfo.cs
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.csproj.CoreCompileInputs.cache
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.dll
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\ref\DemoStyle.dll
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.pdb
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.genruntimeconfig.cache
+D:\!NhungNT\!Demo\LT Net-001\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\App.baml
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.exe
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.deps.json
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.runtimeconfig.json
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.runtimeconfig.dev.json
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\ref\DemoStyle.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\bin\Debug\net5.0-windows\DemoStyle.pdb
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.csproj.AssemblyReference.cache
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\StyleFile.baml
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\App.g.cs
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle_MarkupCompile.cache
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle_MarkupCompile.lref
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\App.baml
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.g.resources
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.AssemblyInfoInputs.cache
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.AssemblyInfo.cs
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.csproj.CoreCompileInputs.cache
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\ref\DemoStyle.dll
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.pdb
+E:\Practice\GitHub\Lập trình .NET - HaUI\Demo_Ngay_22-11\DemoStyle\obj\Debug\net5.0-windows\DemoStyle.genruntimeconfig.cache
