@@ -10,8 +10,8 @@
         <ControlTemplate x:Key="templateButton" TargetType="Button">
             <Grid>
             <!--Template Binding-->
-            <Ellipse Fill="{TemplateBinding Background}"/>
-            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Rectangle Fill="{TemplateBinding Background}"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
             </Grid>
         </ControlTemplate>
 
