@@ -1,0 +1,73 @@
+﻿<Window x:Class="Bai11._1_Minh.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai11._1_Minh"
+        mc:Ignorable="d"
+        Title="Bài 11.1" Height="600" Width="550"
+        Loaded="Window_Loaded">
+    <Window.Resources>
+        <ResourceDictionary Source="StyleFile.xaml"/>
+    </Window.Resources>
+    <Grid Style="{StaticResource Grid}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Border Style="{StaticResource Border}"  Grid.ColumnSpan="2" Grid.RowSpan="8"/>
+        <!--Dòng 1-->
+        <Label Content="Sản Phẩm" Style="{StaticResource TitleText}" Grid.ColumnSpan="2"/>
+        <!--Dòng 2-->
+        <Label Content="Mã sản phẩm" Style="{StaticResource Text}" Grid.Column="0" Grid.Row="1"/>
+        <TextBox x:Name="txtID" Grid.Column="1" Grid.Row="1"/>
+        <!--Dòng 3-->
+        <Label Content="Tên sản phẩm" Style="{StaticResource Text}" Grid.Column="0" Grid.Row="2"/>
+        <TextBox x:Name="txtName" Grid.Column="1" Grid.Row="2"/>
+        <!--Dòng 4-->
+        <Label Content="Giá tiền" Style="{StaticResource Text}" Grid.Column="0" Grid.Row="3"/>
+        <TextBox x:Name="txtPrice" Grid.Column="1" Grid.Row="3"/>
+        <!--Dòng 5-->
+        <Label Content="Màu sắc" Style="{StaticResource Text}" Grid.Column="0" Grid.Row="4"/>
+        <TextBox x:Name="txtColor" Grid.Column="1" Grid.Row="4"/>
+        <!--Dòng 6-->
+        <Label Content="Nhãn hiệu" Style="{StaticResource Text}" Grid.Column="0" Grid.Row="5"/>
+        <ComboBox x:Name="cboBrandName" Grid.Row="5" Grid.Column="1">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding TenHang}"></TextBlock>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <!--Dòng 7-->
+        <Grid Grid.Column="0" Grid.Row="6" Grid.ColumnSpan="2">
+            <DataGrid x:Name="dgvSanPham" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding MaSp}" Width="50"/>
+                    <DataGridTextColumn Header="Name" Binding="{Binding TenSp}" Width="100"/>
+                    <DataGridTextColumn Header="Price" Binding="{Binding DonGia}" Width="100"/>
+                    <DataGridTextColumn Header="Color" Binding="{Binding Mau}" Width="150"/>
+                    <DataGridTextColumn Header="Brand" Binding="{Binding MaHang}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <!--Dòng 8-->
+        <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.Row="7" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <Button x:Name="btnThem" Content="Thêm" Click="btnThem_Click"/>
+            <Button x:Name="btnSua" Content="Sửa" Click="btnSua_Click"/>
+            <Button x:Name="btnXoa" Content="Xóa" Click="btnXoa_Click"/>
+            <Button x:Name="btnThoat" Content="Thoát" Click="btnThoat_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

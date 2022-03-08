@@ -1,0 +1,68 @@
+﻿<Window x:Class="Bai11._3_Minh.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai11._3_Minh"
+        mc:Ignorable="d"
+        Title="Quản lý danh mục sản phẩm" Height="500" Width="700"
+        Loaded="Window_Loaded">
+    <Window.Resources>
+        <ResourceDictionary Source="StyleFile.xaml"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <!--Dòng 1-->
+        <Label Content="Mã sản phẩm"/>
+        <TextBox x:Name="txtID" Grid.Column="1" Grid.Row="0"/>
+        <!--Dòng 2-->
+        <Label Content="Tên sản phẩm" Grid.Column="0" Grid.Row="1"/>
+        <TextBox x:Name="txtName" Grid.Column="1" Grid.Row="1"/>
+        <!--Dòng 3-->
+        <Label Content="Số lượng" Grid.Column="0" Grid.Row="2"/>
+        <TextBox x:Name="txtNum" Grid.Column="1" Grid.Row="2"/>
+        <!--Dòng 4-->
+        <Label Content="Đơn giá" Grid.Column="0" Grid.Row="3"/>
+        <TextBox x:Name="txtPrice" Grid.Column="1" Grid.Row="3"/>
+        <!--Dòng 5-->
+        <Label Content="Mã loại" Grid.Column="0" Grid.Row="4"/>
+        <ComboBox x:Name="cbxBrandID" Grid.Column="1" Grid.Row="4">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding MaLoai}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <!--Dòng 6-->
+        <Grid Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="2">
+            <DataGrid x:Name="dgvDisplay" Grid.ColumnSpan="2" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Mã sản phẩm" Binding="{Binding MaSp}" Width="135"/>
+                    <DataGridTextColumn Header="Tên sản phẩm" Binding="{Binding TenSp}" Width="135"/>
+                    <DataGridTextColumn Header="Số lượng" Binding="{Binding SoLuong}" Width="90"/>
+                    <DataGridTextColumn Header="Đơn giá" Binding="{Binding DonGia}" Width="80"/>
+                    <DataGridTextColumn Header="Tên loại sản phẩm" Binding="{Binding TenLoai}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.Row="6" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <Button x:Name="btnThem" Content="Thêm" Click="btnThem_Click"/>
+            <Button x:Name="btnSua" Content="Sửa" Click="btnSua_Click"/>
+            <Button x:Name="btnXoa" Content="Xóa" Click="btnXoa_Click"/>
+            <Button x:Name="btnThoat" Content="Thoát" Click="btnThoat_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
