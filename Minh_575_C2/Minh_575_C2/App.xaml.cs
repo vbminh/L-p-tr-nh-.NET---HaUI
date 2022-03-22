@@ -9,7 +9,7 @@ using System.Windows;
 namespace Minh_575_C2
 {
     /// <summary>
-    /// Interaction logic for App.xaml
+    /// Interaction logic for App.xaml.
     /// </summary>
     public partial class App : Application
     {
